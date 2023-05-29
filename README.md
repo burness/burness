@@ -5,4 +5,4 @@
 - 📫 Rearch me at burness1990@gmail.com
 - 😄 zhihu: [想飞的石头](https://www.zhihu.com/people/duan-shi-shi-68)
 
-[![Burness's github stats](burness's github stats)](https://github.com/anuraghazra/github-readme-stats)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=burness)]()
